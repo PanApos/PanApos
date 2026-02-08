@@ -9,19 +9,16 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://apospan.com)
 
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=00DDEB)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=00DDEB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=00DDEB)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=AF40FF)
+![WordPress](https://img.shields.io/badge/WordPress-0F172A?style=for-the-badge&logo=wordpress&logoColor=8541F9)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=00DDEB)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PanApos&theme=midnight-purple&bg_color=0F172A&title_color=00DDEB&text_color=F8FAFC&icon_color=AF40FF&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PanApos&theme=midnight-purple&background=0F172A&ring=00DDEB&fire=AF40FF&currStreakNum=F8FAFC&sideLabels=F8FAFC&dates=AF40FF&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PanApos&theme=midnight-purple&bg_color=0F172A&title_color=00DDEB&text_color=F8FAFC&hide_border=false&layout=compact)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PanApos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PanApos&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PanApos&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=PanApos&icon=0&color=0)](https://visitcount.itsvg.in)
