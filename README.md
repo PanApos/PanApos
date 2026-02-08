@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://apospan.com">
+    <img src="images/banner.png" alt="Panagiotis Apostolelis Banner" width="100%">
+  </a>
+</div>
+
+<br/>
+
 ## 💫 About Me:
 **UI/UX Designer & Junior Front-end Developer**. <br>Εστιάζω στον σχεδιασμό χρηστικών διεπαφών στο Figma και στην υλοποίηση ιστοσελίδων σε WordPress (Breakdance Builder). <br>Συνδυάζω την αναλυτική σκέψη που απέκτησα από την εμπειρία μου στην τεχνική υποστήριξη με τις αρχές του User-Centered Design, στοχεύοντας στη δημιουργία λειτουργικών και καλαίσθητων ψηφιακών προϊόντων.<br>Διαθέτω ισχυρό ομαδικό πνεύμα και επικοινωνιακές δεξιότητες, ενώ με προσωπικά projects εξελίσσομαι διαρκώς στις νέες τεχνολογίες.<br><br>**UI/UX Designer & Junior Front-end Developer**.I focus on designing user-friendly interfaces in Figma and developing websites using WordPress (Breakdance Builder).I combine the analytical thinking gained from my technical support background with User-Centered Design principles, aiming to create functional and aesthetically pleasing digital products.I possess a strong team spirit and communication skills, while constantly evolving through personal projects and new technologies. <br>Links<br><br>**Portfolio:** [apospan.com](https://apospan.com/)<br><br>**LinkedIn:**[Panagiotis Apostolelis](https://www.linkedin.com/in/panagiotis-apostolelis/)<br><br>**Figma:** [Παναγιώτης Αποστολέλης](https://www.figma.com/@PanApos)
 
