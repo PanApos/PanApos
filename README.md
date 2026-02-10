@@ -29,11 +29,12 @@ Links<br><br>
 **Figma:** [Παναγιώτης Αποστολέλης](https://www.figma.com/@PanApos)<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?logo=linkedin&logoColor=AF40FF)](https://linkedin.com/in/panagiotis-apostolelis) 
-[![Email](https://img.shields.io/badge/Email-0F172A?logo=gmail&logoColor=AF40FF)](mailto:info@apospan.com) 
-[![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=AF40FF)](https://www.figma.com/@PanApos)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://apospan.com)
 
+[![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=AF40FF)](https://www.figma.com/@PanApos)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=AF40FF)](https://github.com/PanApos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=AF40FF)](https://linkedin.com/in/panagiotis-apostolelis)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=AF40FF)](https://apospan.com)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=AF40FF)](mailto:info@apospan.com)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=00DDEB)
@@ -42,3 +43,4 @@ Links<br><br>
 ![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=AF40FF)
 ![WordPress](https://img.shields.io/badge/WordPress-0F172A?style=for-the-badge&logo=wordpress&logoColor=8541F9)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=00DDEB)
+
